@@ -70,3 +70,39 @@ E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion_API\obj\Debug\n
 E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.pdb
 E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.genruntimeconfig.cache
 E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\ref\Future_Fashion_API.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\appsettings.Development.json
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\appsettings.json
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Future_Fashion_API.exe
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Future_Fashion_API.deps.json
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Future_Fashion_API.runtimeconfig.json
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Future_Fashion_API.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Future_Fashion_API.pdb
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Dapper.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\TT\Future_Fashion\Future_Fashion_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.csproj.AssemblyReference.cache
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.resource.resources
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.csproj.GenerateResource.cache
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.GeneratedMSBuildEditorConfig.editorconfig
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.AssemblyInfoInputs.cache
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.AssemblyInfo.cs
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.csproj.CoreCompileInputs.cache
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.MvcApplicationPartsAssemblyInfo.cs
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.MvcApplicationPartsAssemblyInfo.cache
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\staticwebassets.build.json
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\staticwebassets.development.json
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\scopedcss\bundle\Future_Fashion_API.styles.css
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.csproj.CopyComplete
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.dll
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\refint\Future_Fashion_API.dll
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.pdb
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\Future_Fashion_API.genruntimeconfig.cache
+G:\TT\Future_Fashion\Future_Fashion_API\obj\Debug\net6.0\ref\Future_Fashion_API.dll

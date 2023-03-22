@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work_in_home\\Future_Fashion (1)\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj": {}
+    "G:\\TT\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj": {}
   },
   "projects": {
-    "E:\\work_in_home\\Future_Fashion (1)\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj": {
+    "G:\\TT\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work_in_home\\Future_Fashion (1)\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj",
+        "projectUniqueName": "G:\\TT\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj",
         "projectName": "Future_Fashion_API",
-        "projectPath": "E:\\work_in_home\\Future_Fashion (1)\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "E:\\work_in_home\\Future_Fashion (1)\\Future_Fashion\\Future_Fashion_API\\obj\\",
+        "projectPath": "G:\\TT\\Future_Fashion\\Future_Fashion_API\\Future_Fashion_API.csproj",
+        "packagesPath": "C:\\Users\\vanan\\.nuget\\packages\\",
+        "outputPath": "G:\\TT\\Future_Fashion\\Future_Fashion_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

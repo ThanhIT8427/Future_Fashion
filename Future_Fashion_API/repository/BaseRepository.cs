@@ -13,7 +13,6 @@ namespace Future_Fashion_API.repository
           
             //_connectionSring = $"server={resource.server};uid={resource.uid};pwd={resource.pwd};database={resource.database}";
             _connectionSring = @"server=.; database=SHOP; Integrated Security=true";
-            _connectionSring = @"Data Source=LAPTOP-QUKATC0N\SQLEXPRESS;Initial Catalog=SHOP;Integrated Security=True";
         }
         #region Methods
         /// <summary>
@@ -47,6 +46,7 @@ namespace Future_Fashion_API.repository
             {
 
                 var sql = $"SELECT  * FROM {typeof(Entity).Name}";
+      
                 var entitys = this._sqlConnection.Query<Entity>(sql);
                 return entitys;
             }
@@ -85,15 +85,34 @@ namespace Future_Fashion_API.repository
                 // Lấy danh sách các thuộc tính của đối tượng
                 PropertyInfo[] properties = type.GetProperties();
 
-                var attr = $"@{properties[0].Name}";
-
-               for(int i = 1; i < properties.Length; i++)
+                var attr = $"@{properties[1].Name}";
+                var attr2 = properties[1].Name;
+                var idName = "";
+               for(int i = 0; i < properties.Length; i++)
                 {
-                    attr = $"{attr},@{properties[i].Name}";
-                }
+                    if (i > 1)
+                    {
+                        var propertyIgnore = properties[i].GetCustomAttributes(typeof(attributes.PropertyIgnore), true);
+                        if (propertyIgnore.Length == 0)
+                        {
+                            attr = $"{attr},@{properties[i].Name}";
+                            attr2 = $"{attr2},{properties[i].Name}";
+                        }
 
-                var sql = $"INSERT INTO {typeof(Entity).Name} VALUES ({attr})";
-                var res = this._sqlConnection.Execute(sql, obj);
+                    }
+
+                    var primarykey = properties[i].GetCustomAttributes(typeof(attributes.PrimaryKey), true);
+                    if (primarykey.Length > 0)
+                    {
+                        idName = properties[i].Name;
+                    }
+                }
+                
+              
+
+                var sql = $"INSERT INTO  {typeof(Entity).Name} ({attr2}) VALUES ({attr})";
+                 this._sqlConnection.Execute(sql, obj);
+                var res = _sqlConnection.QueryFirstOrDefault<int>($"SELECT MAX({idName}) FROM {typeof(Entity).Name}");
                 return res;
             }
         }

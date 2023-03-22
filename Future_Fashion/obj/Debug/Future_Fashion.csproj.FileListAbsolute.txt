@@ -10,3 +10,15 @@ E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion\obj\Debug\Futur
 E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.csproj.CoreCompileInputs.cache
 E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.exe
 E:\work_in_home\Future_Fashion (1)\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.pdb
+G:\TT\Future_Fashion\Future_Fashion\bin\Debug\Future_Fashion.exe.config
+G:\TT\Future_Fashion\Future_Fashion\bin\Debug\Future_Fashion.exe
+G:\TT\Future_Fashion\Future_Fashion\bin\Debug\Future_Fashion.pdb
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.csproj.AssemblyReference.cache
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.csproj.SuggestedBindingRedirects.cache
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.Login.resources
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.ProductController.resources
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.Properties.Resources.resources
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.csproj.GenerateResource.cache
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.csproj.CoreCompileInputs.cache
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.exe
+G:\TT\Future_Fashion\Future_Fashion\obj\Debug\Future_Fashion.pdb

@@ -10,4 +10,5 @@ public class ProductAppService : BaseService<int, TblProducts>, IProductAppServi
     {
         _repository = repository;
     }
+ 
 }
