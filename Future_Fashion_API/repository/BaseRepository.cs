@@ -12,7 +12,8 @@ namespace Future_Fashion_API.repository
         {
           
             //_connectionSring = $"server={resource.server};uid={resource.uid};pwd={resource.pwd};database={resource.database}";
-            _connectionSring = @"server=.; database=SHOP; Integrated Security=true";
+            _connectionSring = @"server=.; database=SHOP2; Integrated Security=true";
+            _connectionSring = @"Data Source=LAPTOP-QUKATC0N\SQLEXPRESS;Initial Catalog=SHOP2;Integrated Security=True";
         }
         #region Methods
         /// <summary>
